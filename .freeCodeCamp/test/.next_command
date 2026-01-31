@@ -30,3 +30,4 @@ $(echo ' M e ' | sed <pattern>)
 echo "$(echo ' M e ' | sed 's/ //')."
 echo "$(echo ' M e ' | sed 's/ //g')."
 echo "$(echo ' M e ' | sed 's/^ //g')."
+echo "$(echo ' M e ' | sed 's/^ //g')."
